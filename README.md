@@ -3,7 +3,7 @@
 OpenCV Finger Detection Light Control
 
 Overview
-A computer vision–based system that uses OpenCV to detect total fingers raised and turns on that amount of lights.This interactive project combines hand gesture recognition with real-time hardware control.
+A computer vision–based system that uses OpenCV to detect total fingers raised and turns on that corresponding light.This interactive project combines hand gesture recognition with real-time hardware control.
 
 Key Features
 Detects raised fingers using webcam and OpenCV
